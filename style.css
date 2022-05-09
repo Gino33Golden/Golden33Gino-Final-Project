@@ -11381,3 +11381,7 @@ header.masthead .bg-circle-4 {
   header.masthead .masthead-content .masthead-subheading {
     font-size: 4rem;
   }
+
+  img.ex1 {
+  margin-left: 30px;
+}
