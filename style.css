@@ -11388,5 +11388,23 @@ header.masthead .bg-circle-4 {
 
   img.ex2 {
     margin-left: 1300px;
-    height: 70px;
   }
+
+
+
+  {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
