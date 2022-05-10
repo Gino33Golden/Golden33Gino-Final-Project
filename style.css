@@ -11321,8 +11321,8 @@ header.masthead {
   position: relative;
   overflow: hidden;
   padding-top: calc(7rem + 72px);
-  padding-bottom: 7rem;
-  background: #2B4593;
+  padding-bottom: 4rem;
+  background-image: url('https://patch.com/img/cdn/users/22735708/2014/11/raw/545a4bb39c60c.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -11393,15 +11393,7 @@ header.masthead .bg-circle-4 {
   padding: 10px;
 }
 
-.img2{
-  float: right;
-  width: 33.33%;
-  padding: 10px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
 }
