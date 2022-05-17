@@ -11397,3 +11397,22 @@ header.masthead .bg-circle-4 {
   width: 100%;
   height: 100%;
 }
+
+.footer {
+  padding: 4rem 0;
+  background: #183661;
+  font-size: 14px;
+  color: #fff; }
+  .footer .footer-heading {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px; }
+    .footer .footer-heading span {
+      border-bottom: 3px solid #fff; }
+  .footer a:hover {
+    color: #fff;
+    text-decoration: underline; }
+  .footer .copyright {
+    color: #fff;
+    padding-top: 7rem;
+    text-align: center; }
